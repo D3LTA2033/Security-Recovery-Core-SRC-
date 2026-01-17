@@ -3,6 +3,9 @@
 # Detailed Troubleshoot Guide
 https://security-recovery-core.droploot.org/docs-troubleshooting.html
 
+# Wiki
+https://security-recovery-core.droploot.org/wiki.html
+
 ## Common Issues and Solutions
 
 ### USB Device Not Detected
