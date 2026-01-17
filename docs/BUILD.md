@@ -3,6 +3,9 @@
 # Web Build Guide
 https://security-recovery-core.droploot.org/docs-build.html
 
+# Wiki
+https://security-recovery-core.droploot.org/wiki.html
+
 ## Firmware Build
 
 ### Prerequisites
