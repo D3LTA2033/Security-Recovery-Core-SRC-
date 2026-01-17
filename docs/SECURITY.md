@@ -3,6 +3,9 @@
 # Security Detailed
 https://security-recovery-core.droploot.org/docs-security.html
 
+# Wiki
+https://security-recovery-core.droploot.org/wiki.html
+
 ## Threat Model
 
 ### Protected Against
