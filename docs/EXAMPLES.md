@@ -3,6 +3,9 @@
 # Web Example
 https://security-recovery-core.droploot.org/docs-examples.html
 
+# Wiki
+https://security-recovery-core.droploot.org/wiki.html
+
 ## Example Terminal Outputs
 
 ### Status Command
